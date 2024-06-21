@@ -1,0 +1,130 @@
+
+
+##
+## # Lxqt
+##
+
+
+
+
+##
+## ## Package / Lxqt
+##
+
+lxqt-session
+lxqt-panel
+lxqt-globalkeys
+
+
+
+
+##
+## ## Package / Compositor
+##
+
+picom
+
+
+
+
+##
+## ## Package / Volume Control
+##
+
+
+##
+## > for command `mate-volume-control` or `mate-volume-control-status-icon`
+##
+
+#mate-media
+
+
+##
+## > for command `pavucontrol`
+##
+
+#pavucontrol
+
+
+##
+## > for command `pavucontrol-qt`
+##
+
+pavucontrol-qt
+
+
+##
+## > for command `pamixer`
+##
+
+pamixer
+
+
+##
+## > for command `amixer`
+##
+
+#alsamixergui
+
+
+
+
+##
+## ## Package / Qt / Style
+##
+
+#qt5ct
+#qt6ct
+kvantum
+qt5-qtstyleplugins
+
+
+
+
+##
+## ## Package / Theme / Papirus
+##
+
+papirus-icon-theme
+
+
+
+
+##
+## ## Package / Theme / Numix
+##
+
+numix-gtk-theme
+numix-icon-theme
+numix-icon-theme-circle
+numix-icon-theme-square
+
+
+
+
+
+##
+## ## Package  / Theme / Arc
+##
+
+arc-theme
+arc-kde
+
+
+
+##
+## ## Package  / Theme / Materia
+##
+
+#materia-gtk-theme
+
+
+
+
+##
+## ## Package / Theme / Breeze
+##
+
+#breeze-gtk
+#breeze-icon-theme
+breeze-cursor-theme
