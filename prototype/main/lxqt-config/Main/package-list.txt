@@ -86,6 +86,8 @@ qt5-qtstyleplugins
 ##
 
 papirus-icon-theme
+papirus-icon-theme-dark
+papirus-icon-theme-light
 
 
 
